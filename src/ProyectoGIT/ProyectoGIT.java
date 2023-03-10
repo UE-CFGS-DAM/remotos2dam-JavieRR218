@@ -1,12 +1,19 @@
 package ProyectoGIT;
 
 public class ProyectoGIT {
+	
+	public static void Saludar() {
+		System.out.println("Hola Git");
+	}
+	
 
 	public static void main(String[] args) {
-		System.out.println("Hola GIT");
 		
-		System.out.println("Hola otra vez");
+		Saludar();
+		
 
+	
+		
 	}
 
 }
